@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**krishsaraf27/krishsaraf27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Krish Saraf**. I am from Christ University taking BSc in Physics, Mathematics and Electronics (Yes, a triple major!) 
 
-Here are some ideas to get you started:
+I love to join hackathons to increase my knowledge and meet interesting people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+
+Team Management | Mathematical Modelling
+
+
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning C Programming.
+- 👯 I’m looking to collaborate on research projects.
+- 📫 How to reach me: @krishsaraf27 (Instagram), @krish_saraf (Twitter)
