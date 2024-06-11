@@ -2,6 +2,8 @@
 
 My name is **Krish Saraf**. I am from Christ University taking BSc in Physics, Mathematics and Electronics (Yes, a triple major!) 
 
+I have great interest in electronics as well as coding! Currently studying C programming and Tensorflow.
+
 I love to join hackathons to increase my knowledge and meet interesting people.
 
 **Skills:**
